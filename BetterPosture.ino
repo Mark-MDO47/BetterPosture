@@ -7,7 +7,7 @@
 // Mark Olson 2016-09
 //
 // adapted from TWIT-TV Know How https://twit.tv/shows/know-how/episodes/178
-//     major kudos to Fr. Robert Ballecer and Bryan Burnett for their steampunk goggles project
+//     major kudos to Fr. Robert Ballecer and Bryan Burnett for their show
 //             and for pointing me to the FastLED library
 //     major kudos to Daniel Garcia and Mark Kriegsman for the FANTASTIC FastLED library and examples!!!
 //
