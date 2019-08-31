@@ -1,2 +1,2 @@
 # BetterPosture
-Our first wearable better posture helper (Jim Frankfort, Mark Olson)
+Our first wearable better posture helper (Jim, Mark)
